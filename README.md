@@ -1,0 +1,2 @@
+# N-queen
+Algorithm 
